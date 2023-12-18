@@ -1,10 +1,10 @@
 ---
-title: Custom Integration Requirement
+title: Custom Integration
 layout: home
 nav_order: 3
 ---
 
-# Custom integration required
+# Required Custom integration
 
 This is the list of integration required for this dashboard.
 
@@ -18,7 +18,7 @@ This is the list of integration required for this dashboard.
 * [custom-brand-icons](https://github.com/elax46/custom-brand-icons)
 
 
-# Custom integration optional
+# Optional Custom integration 
 
 I'm using alarmo as central alarm system but you can use your own.
 * [Alarmo](https://github.com/nielsfaber/alarmo)
