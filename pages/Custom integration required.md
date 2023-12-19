@@ -32,3 +32,27 @@ fonts.woff2 location: /www/fonts/
 font.css location: /www/
 
 Add in configuration.yaml
+
+    lovelace:
+      mode: yaml
+      resources:
+        [
+           { url: '/local/fonts.css?v=2.1',type: css}
+        ]
+
+Add in general_theme.yaml
+
+      # +----------------------------------------------------------------------------+
+      # | Apple Fonts                                                                |
+      # +----------------------------------------------------------------------------+
+        primary-font-family: SF Pro Text, Roboto, system-ui
+        paper-font-common-base_-_font-family: var(--primary-font-family)
+        paper-font-common-code_-_font-family: var(--primary-font-family)
+        paper-font-body1_-_font-family: var(--primary-font-family)
+        paper-font-subhead_-_font-family: var(--primary-font-family)
+        paper-font-headline_-_font-family: var(--primary-font-family)
+        paper-font-caption_-_font-family: var(--primary-font-family)
+        paper-font-title_-_font-family: var(--primary-font-family)
+        ha-card-header-font-family: var(--primary-font-family)
+        mdc-typography-body1-font-family: var(--primary-font-family)
+        mdc-typography-font-family: var(--primary-font-family)  
