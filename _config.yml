@@ -13,7 +13,6 @@ aux_links_new_tab: true
   
 color_scheme: dark
 
-logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 
 # +--------------------------------------------------------------------------+
