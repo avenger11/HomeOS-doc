@@ -5,6 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
+
 # Setup
 
 You need to have HACS already installed on your Home Assistant instance and you will need to know your way around .yaml file for integrate this.
