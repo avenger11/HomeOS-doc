@@ -1,6 +1,6 @@
 ---
 title: Configuration
 layout: home
-parent: Installation
+parent: Setup
 nav_order: 2
 ---
