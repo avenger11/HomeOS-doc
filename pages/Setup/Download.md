@@ -2,7 +2,7 @@
 title: Download
 layout: home
 parent: Setup
-nav_order: 3
+nav_order: 2
 ---
 
 # Required Custom integration
