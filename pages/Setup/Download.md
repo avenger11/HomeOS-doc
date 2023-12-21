@@ -1,6 +1,7 @@
 ---
-title: Custom Integration
+title: Download
 layout: home
+parent: Setup
 nav_order: 3
 ---
 

@@ -6,6 +6,9 @@ nav_order: 1
 
 Welcome to HomeOS documentation. 
 
+
+[View it on GitHub][https://github.com/avenger11/HomeOS]{: .btn .fs-5 .mb-4 .mb-md-0 }
+
 Here is the latest screenshot of the progress.
 
 As of 17 December 2023
