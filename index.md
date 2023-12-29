@@ -15,6 +15,9 @@ nav_order: 1
 
 
 Here is the latest screenshot of the progress.
+## As of 28 December 2023
+![192 168 0 22_8123_lovelace-homeos_0(FireHD 10)](https://github.com/avenger11/HomeOS-doc/assets/37946892/d7b8996b-9269-4ffd-aef1-0676facad0be)
+![192 168 0 22_8123_lovelace-homeos_0(FireHD 10) (1)](https://github.com/avenger11/HomeOS-doc/assets/37946892/da8f41c5-02d2-4553-8178-ecf8f351736d)
 
 ## As of 17 December 2023
 ![192 168 0 22_8123_lovelace-homeos_0(FireHD 10)](https://github.com/avenger11/HomeOS-doc/assets/37946892/198e0f2f-d767-44b1-822e-9496be39a2fd)
