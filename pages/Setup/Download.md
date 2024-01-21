@@ -27,6 +27,9 @@ I'm using alarmo as central alarm system but you can use your own.
 This is for the bus schedule on the person card.
 * [GTFS-Realtime](https://github.com/zacs/ha-gtfs-rt)
 
+This is for the pland card.
+* [Homeassistant-plant](https://github.com/Olen/homeassistant-plant)
+
 # Apple Font Installation 
 
 fonts.woff2 location: /www/fonts/
