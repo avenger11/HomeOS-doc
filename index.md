@@ -16,6 +16,11 @@ nav_order: 1
 
 Here is the latest screenshot of the progress.
 
+## As of 23 January 2024
+
+![Dark](https://github.com/avenger11/HomeOS-doc/assets/37946892/265c0e71-3c03-4442-a067-3ceb0ac098a6)
+![Light](https://github.com/avenger11/HomeOS-doc/assets/37946892/d231ee68-05bd-4787-97e6-7c5b1eb7df9f)
+
 ## As of 20 January 2024
 
 ![dark](https://github.com/avenger11/HomeOS-doc/assets/37946892/f57c7011-bea9-41c5-8572-5504b70f126f)
