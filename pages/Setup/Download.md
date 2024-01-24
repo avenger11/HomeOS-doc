@@ -7,7 +7,7 @@ nav_order: 2
 
 # Required Custom integration
 
-This is the list of integration required for this dashboard.
+This is the list of integration required for this dashboard to work.
 
 * [Kiosk Mode](https://github.com/NemesisRE/kiosk-mode)
 * [Button Card](https://github.com/custom-cards/button-card)
