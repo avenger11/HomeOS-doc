@@ -5,12 +5,13 @@ parent: Setup
 nav_order: 1
 ---
 
+# Introduction
 
- File and Folder Structure Convention
+
 
 ### A Typical files and folder directory layout for each card
 
-> this will be an example for the weather card integration
+> this is an example for the weather card integration
 
     .
     ├── ...
