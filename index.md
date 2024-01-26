@@ -6,7 +6,7 @@ nav_order: 1
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/avenger11/HomeOS)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/avenger11/HomeOS?style=flat-square)](https://github.com/avenger11/HomeOS/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/avenger11/HomeOS)](https://github.com/avenger11/HomeOS/releases/latest)
 ![Stargazers](https://img.shields.io/github/stars/avenger11/HomeOS.svg?)
 
 # Welcome to HomeOS documentation. 
