@@ -21,3 +21,12 @@ With container I separate Home Assistant,Node-Red,Zigbee2MQTT,Emqx & MariaDB.
 So today, I'm running Home Assistant, Node-Red, Zigbee2Mqtt, Emqx and MariaDB in docker container on my Synology DS920+ (with additional SSD and 20Go of RAM)
 
 The Wall Mount tablet is a FireHD 10 from amazon running Fully Kiosk Browser.
+
+# My hardware recommendation
+
+- Do not buy dimmer switch
+I got 3: 
+- 1 is slow
+- 1 flicker
+- 1 just does not work
+
