@@ -25,11 +25,14 @@ The Wall Mount tablet is a FireHD 10 from amazon running Fully Kiosk Browser.
 # My personal setup recommendation
 
 ### Do not buy dimmer switch
-I got 3: 
-- 1 is slow to respond (tp-link) 
-- 1 flicker sometimes (Leviton)
-- 1 just does not work and flicker (Shelly dimmer 2)
-Buy smart lamp instead ! 
+I got 3 different brand with different problem.
+
+| # | Comment                    | Brand   |
+|:--|:---------------------------|:--------|
+| 1 | Slow to respond to command | Tp-Link |
+| 2 | Flicker sometimes          | Leviton |
+| 3 | Does not work              | Shelly  |
 
 
-
+{: .highlight }
+Do not buy dimmers, buy smart lamp instead
