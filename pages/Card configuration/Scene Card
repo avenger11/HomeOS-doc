@@ -1,0 +1,16 @@
+---
+title: Scene Card
+layout: Configuration
+nav_order: 1
+parents: Configuration
+---
+
+# Scene Card
+
+### Files
+
+- /homeos_module/scene
+
+### Dependencies
+
+- themes/homeos
