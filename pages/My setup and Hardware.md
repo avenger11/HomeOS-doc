@@ -22,11 +22,14 @@ So today, I'm running Home Assistant, Node-Red, Zigbee2Mqtt, Emqx and MariaDB in
 
 The Wall Mount tablet is a FireHD 10 from amazon running Fully Kiosk Browser.
 
-# My hardware recommendation
+# My personal setup recommendation
 
-- Do not buy dimmer switch
+### Do not buy dimmer switch
 I got 3: 
-- 1 is slow
-- 1 flicker
-- 1 just does not work
+- 1 is slow to respond (tp-link) 
+- 1 flicker sometimes (Leviton)
+- 1 just does not work and flicker (Shelly dimmer 2)
+Buy smart lamp instead ! 
+
+
 
