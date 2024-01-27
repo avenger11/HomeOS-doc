@@ -1,6 +1,6 @@
 ---
 title: Scene Card
-layout: Configuration
+layout: default
 nav_order: 1
 parents: Configuration
 ---
