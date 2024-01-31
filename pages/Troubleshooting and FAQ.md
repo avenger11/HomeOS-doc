@@ -22,3 +22,12 @@ Then
 
      git commit -m "Remove folder from Git repository"
      git push origin <branch-name>
+
+
+# Athom Bulb WLED Integration in Home Assistant (Workaround)
+
+Go directly in HA to integrate.
+
+- If not, config / LED preference 
+- Set Lef Outputs to PWM RGBW and for the first integration tick Calculate CCT from RGB.
+- And Reboot WLED.
