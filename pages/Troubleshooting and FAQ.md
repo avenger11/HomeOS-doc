@@ -29,5 +29,5 @@ Then
 Go directly in HA to integrate.
 
 - If not, config / LED preference 
-- Set Lef Outputs to PWM RGBW and for the first integration tick Calculate CCT from RGB.
+- Set Led Outputs to PWM RGBW and for the first integration check Calculate CCT from RGB.
 - And Reboot WLED.
