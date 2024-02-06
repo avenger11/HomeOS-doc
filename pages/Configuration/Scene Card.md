@@ -1,7 +1,7 @@
 ---
 title: Scene Card
 layout: home
-nav_order: 1
+nav_order: 2
 parent: Configuration
 ---
 
