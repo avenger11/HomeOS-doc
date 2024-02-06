@@ -1,3 +1,10 @@
+---
+title: Icon Template
+layout: home
+nav_order: 1
+parent: Configuration
+---
+
 # List of Icon available in HomeOS
 
 | Icon | Name                |
