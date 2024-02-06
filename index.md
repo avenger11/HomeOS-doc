@@ -16,6 +16,15 @@ nav_order: 1
 
 Here is the latest screenshot of the progress.
 
+## 5 February 2024
+
+- Add a Clock card for design consistency
+- Pre-code for scene popup directly from map view
+
+![192 168 0 22_8123_lovelace-homeos_0(FireHD 10)](https://github.com/avenger11/HomeOS-doc/assets/37946892/6be1dead-f50d-4f0e-85e1-ab59f0966fbe)
+![192 168 0 22_8123_lovelace-homeos_0(FireHD 10) (1)](https://github.com/avenger11/HomeOS-doc/assets/37946892/29b74dcb-1892-4b99-863e-f6e7c26dee3d)
+
+
 ## As of 23 January 2024
 
 ![Dark](https://github.com/avenger11/HomeOS-doc/assets/37946892/265c0e71-3c03-4442-a067-3ceb0ac098a6)
